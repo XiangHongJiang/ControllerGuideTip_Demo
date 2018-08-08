@@ -23,7 +23,7 @@
 <div align=center><img width="200" height="355" src="https://github.com/XiangHongJiang/ControllerGuideTip_Demo/blob/master/Pic/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-08-08%20at%2016.52.05.png"/></div>
 
 4.不带穿透框
-<div align=center><img width="500" height="889" src="https://github.com/XiangHongJiang/ControllerGuideTip_Demo/blob/master/Pic/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-08-08%20at%2016.52.07.png"/></div>
+<div align=center><img width="200" height="355" src="https://github.com/XiangHongJiang/ControllerGuideTip_Demo/blob/master/Pic/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-08-08%20at%2016.52.07.png"/></div>
 
 
 #### 使用说明
