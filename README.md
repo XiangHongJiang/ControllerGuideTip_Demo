@@ -14,10 +14,10 @@
 <div align=center><img width="500" height="889" src="https://github.com/XiangHongJiang/ControllerGuideTip_Demo/blob/master/Pic/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-08-08%20at%2016.51.58.png"/></div>
 
 2. 显示一个，再来一个
-<div align=center><img width="500" height="889" src="https://github.com/XiangHongJiang/ControllerGuideTip_Demo/blob/master/Pic/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-08-08%20at%2016.52.01.png
-"/></div>
-<div align=center><img width="500" height="889" src="https://github.com/XiangHongJiang/ControllerGuideTip_Demo/blob/master/Pic/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-08-08%20at%2016.52.03.png
-"/></div>
+<div align=center><img width="500" height="889" src="https://github.com/XiangHongJiang/ControllerGuideTip_Demo/blob/master/Pic/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-08-08%20at%2016.52.01.png"/></div>
+
+<div align=center><img width="500" height="889" src="https://github.com/XiangHongJiang/ControllerGuideTip_Demo/blob/master/Pic/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-08-08%20at%2016.52.03.png"/></div>
+
 
 3. 全图覆盖
 <div align=center><img width="500" height="889" src="https://github.com/XiangHongJiang/ControllerGuideTip_Demo/blob/master/Pic/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-08-08%20at%2016.52.05.png"/></div>
