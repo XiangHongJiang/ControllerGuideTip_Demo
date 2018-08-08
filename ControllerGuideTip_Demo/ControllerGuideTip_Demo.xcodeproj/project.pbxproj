@@ -17,6 +17,7 @@
 		FCAC34D6211AB8FC0059ECB6 /* ControllerGuideTip_DemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FCAC34D5211AB8FC0059ECB6 /* ControllerGuideTip_DemoUITests.m */; };
 		FCAC34E9211AB99E0059ECB6 /* GuideTipDemoTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FCAC34E8211AB99E0059ECB6 /* GuideTipDemoTableViewController.m */; };
 		FCAC34ED211AC6B80059ECB6 /* XHGuideTipManager.m in Sources */ = {isa = PBXBuildFile; fileRef = FCAC34EB211AC6B70059ECB6 /* XHGuideTipManager.m */; };
+		FCAC34F0211AEE1F0059ECB6 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = FCAC34EF211AEE1F0059ECB6 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,7 @@
 		FCAC34EB211AC6B70059ECB6 /* XHGuideTipManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XHGuideTipManager.m; sourceTree = "<group>"; };
 		FCAC34EC211AC6B80059ECB6 /* XHGuideTipManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XHGuideTipManager.h; sourceTree = "<group>"; };
 		FCAC34EE211ACB8E0059ECB6 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		FCAC34EF211AEE1F0059ECB6 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 		FCAC34B0211AB8FB0059ECB6 /* ControllerGuideTip_Demo */ = {
 			isa = PBXGroup;
 			children = (
+				FCAC34EF211AEE1F0059ECB6 /* README.md */,
 				FCAC34EA211AB9E80059ECB6 /* Tools */,
 				FCAC34E3211AB9110059ECB6 /* Demo */,
 				FCAC34B1211AB8FB0059ECB6 /* AppDelegate.h */,
@@ -292,6 +295,7 @@
 			files = (
 				FCAC34BE211AB8FB0059ECB6 /* LaunchScreen.storyboard in Resources */,
 				FCAC34BB211AB8FB0059ECB6 /* Assets.xcassets in Resources */,
+				FCAC34F0211AEE1F0059ECB6 /* README.md in Resources */,
 				FCAC34B9211AB8FB0059ECB6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
